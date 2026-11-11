@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "name": "Mount Everest",
+      "detail": "Highest mountain above sea level",
+      "value": "8,848.86 m",
+      "place": "Nepal / China"
+    },
+    {
+      "name": "K2",
+      "detail": "Second-highest mountain in the world",
+      "value": "8,611 m",
+      "place": "Pakistan / China"
+    },
+    {
+      "name": "Annapurna I",
+      "detail": "Known for its demanding climbing conditions",
+      "value": "8,091 m",
+      "place": "Nepal"
+    }
+  ],
+  "updates": [
+    {
+      "tag": "Training",
+      "title": "Build skills before attempting a high-altitude climb",
+      "text": "Begin with fitness, navigation, rope skills and supervised practice on suitable terrain."
+    },
+    {
+      "tag": "Safety",
+      "title": "Weather planning remains essential",
+      "text": "Mountain weather can change quickly. Check reliable forecasts and agree on a turn-around plan."
+    },
+    {
+      "tag": "Community",
+      "title": "Learn from local climbing groups",
+      "text": "Clubs and experienced guides can help new climbers understand local conditions and safe practices."
+    }
+  ]
+}
